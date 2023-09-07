@@ -25,4 +25,5 @@ const editor = new EditorView({
   // ... other configurations ...
 });
 
+```
 Start writing your HTML code with embedded CSS and JavaScript in the CodeMirror editor. Any linting errors or warnings will be displayed.
